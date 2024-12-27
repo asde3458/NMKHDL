@@ -5,5 +5,5 @@
 
 ## Nội dung
 1. **`Data/`**: Chứa file `CSV` dataset.  
-2. **`Source/`**: Chứa các Jupyter Notebook (`.ipynb`) dùng để tìm hiểu và phân tích dataset theo yêu cầu.  
-
+2. **`Notebook/`**: Chứa các Jupyter Notebook (`.ipynb`) dùng để tìm hiểu và phân tích dataset theo yêu cầu.  
+3. link Notion
